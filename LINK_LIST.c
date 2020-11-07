@@ -254,7 +254,7 @@ preptr = ptr;
 }
 struct node *delete_list(struct node *start)
 {
-	 struct node *ptr; // Lines 252-254 were modified from original code to fixunresposiveness in output window
+	 struct node *ptr;
 	if(start!=NULL)
 	{
 		 ptr=start;
@@ -287,5 +287,5 @@ ptr1 = start;
 		 }
 		 ptr1 = ptr1 -> next;
 	 }
-	return start; // Had to be added
+	return start;
 }
