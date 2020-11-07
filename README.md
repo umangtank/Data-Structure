@@ -1,9 +1,9 @@
-Data Structure usin C
+# Data Structure usin C
 
-linked list
-stack
-Queue
-Tree
-Graph
-Searching
-Sorting
+linked list<br>
+stack<br>
+Queue<br>
+Tree<br>
+Graph<br>
+Searching<br>
+Sorting<br>
