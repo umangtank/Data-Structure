@@ -1,4 +1,4 @@
-# Data Structure usin C
+# Data Structure using C
 
 linked list<br>
 stack<br>
